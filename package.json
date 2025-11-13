@@ -1,0 +1,24 @@
+{
+  "name": "aura-immersive-design",
+  "version": "1.0.0",
+  "description": "AURA: The Immersive Light & Sound Journey - UI Design",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "aura",
+    "immersive",
+    "exhibition",
+    "ui"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
